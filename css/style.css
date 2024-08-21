@@ -1,0 +1,250 @@
+body {
+  background: f6f6fa;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-bottom: 40px;
+  padding-right: 40px;
+  font-family: "Montserrat", sans-serif;
+
+  /* line-height: 17px; */
+  line-height: 121%;
+  color: #000;
+}
+ul,
+ol {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.Wrapper {
+  background: #ffffff;
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  margin: auto;
+}
+/* Main-Content */
+.main-content {
+  padding-left: 88px;
+  padding-top: 80px;
+  padding-right: 40px;
+  padding-bottom: 80px;
+
+  box-sizing: border-box;
+}
+
+/* Sidebar */
+.sidebar {
+  background: #e0ebfe;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  box-sizing: border-box;
+  width: 370px;
+}
+.sidebar-content {
+  padding-left: 40px;
+  padding-top: 40px;
+  padding-right: 40px;
+  box-sizing: border-box;
+}
+.contacts-title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  color: #161d2a;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.contacts-CE {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+
+  /* line-height: 24px; */
+  line-height: 171%;
+  color: #161d2a;
+  padding-left: 8px;
+}
+.contacts-link {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+
+  /* line-height: 24px; */
+  line-height: 171%;
+  color: #204b99;
+  padding-top: 0px;
+}
+.contacts-item {
+  margin-top: 0px;
+  margin-bottom: 2px;
+}
+.contacts-conteiner {
+  margin-bottom: 40px;
+}
+.skills-conteiner {
+  margin-bottom: 40px;
+}
+.skills-conteiner-title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  color: #161d2a;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.skills-conteiner-list {
+  padding-left: 16px;
+}
+.skills-conteiner-list-item {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+
+  /* line-height: 24px; */
+  line-height: 171%;
+  color: #161d2a;
+}
+.main-title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+
+  /* line-height: 17px; */
+  line-height: 121%;
+  color: #000;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.main-name {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 122%;
+  color: #000;
+  margin-top: 0px;
+  margin-bottom: 12px;
+}
+.main-text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  color: #595959;
+}
+.my-info {
+  margin-bottom: 40px;
+}
+.my-project-title {
+  font-weight: 700;
+  font-size: 22px;
+
+  /* line-height: 27px; */
+  line-height: 123%;
+  color: #000;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.my-project-item {
+  color: #000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.my-project-list {
+  padding-left: 16px;
+}
+.my-project-item-link {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #005fff;
+}
+.my-project-item-tech {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+
+  /* line-height: 24px; */
+  line-height: 171%;
+  color: #595959;
+}
+.my-project-conteiner {
+  margin-bottom: 40px;
+}
+/* WORK EXPERIENCE */
+.work-experience-title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+
+  /* line-height: 27px; */
+  line-height: 123%;
+  color: #000;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.work-experience-company {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+
+  /* line-height: 20px; */
+  line-height: 125%;
+  color: #000;
+  margin-bottom: 12px;
+  margin-top: 0px;
+}
+.work-experience-company-mod {
+  color: #6d9bf5;
+}
+.work-experience-period {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+
+  /* line-height: 15px; */
+  line-height: 125%;
+  color: #a8a8a8;
+  margin-bottom: 8px;
+}
+.work-experience-period-line {
+  color: #000;
+}
+.work-experience-duties-list {
+  padding-left: 16px;
+}
+.work-experience-duties-item {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+
+  /* line-height: 24px; */
+  line-height: 171%;
+  color: #595959;
+}
+.work-experience-company-conteiner {
+  margin-bottom: 12px;
+}
+.work-experience-education {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.Education {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  color: #6d9bf5;
+}
+.work-experience-main {
+  margin-bottom: 40px;
+}
+.work-experience-education-title {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  color: #000;
+}
